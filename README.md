@@ -5,7 +5,7 @@ Dashboard de análise de performance para Contact Center desenvolvido com Power 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 <p align="center">
-  <img src="img/image_6906d5.png" width="800" alt="Visão Geral do Dashboard">
+  <img src="img/01-visao-geral.png" width="800" alt="Visão Geral do Dashboard">
 </p>
 
 ## 📄 Resumo do Projeto
@@ -35,21 +35,21 @@ O painel é dividido em duas visões principais para uma análise completa:
 Oferece um resumo executivo dos principais KPIs, ideal para uma análise rápida do status da operação.
 
 <p align="center">
-  <img src="img/image_6906d5.png" width="800" alt="Visão Geral do Dashboard">
+  <img src="img/01-visao-geral.png" width="800" alt="Visão Geral do Dashboard">
 </p>
 
 #### Desempenho Detalhado
 Permite uma análise mais profunda do andamento dos projetos e demandas, incluindo um log de atividades e visão de prazos.
 
 <p align="center">
-  <img src="img/image_690731.png" width="800" alt="Desempenho Detalhado">
+  <img src="img/02-desempenho-detalhado.png" width="800" alt="Desempenho Detalhado">
 </p>
 
 #### Interatividade e Filtros
 O dashboard é totalmente interativo, permitindo filtros por período, responsável e status da atividade, proporcionando análises personalizadas.
 
 <p align="center">
-  <img src="img/image_6906f2.png" width="300" alt="Filtros do Dashboard">
+  <img src="img/03-filtros-interativos.png" width="300" alt="Filtros do Dashboard">
 </p>
 
 **Principais KPIs e Métricas Monitoradas:**
