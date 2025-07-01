@@ -52,6 +52,10 @@ O dashboard é totalmente interativo, permitindo filtros por período, responsá
   <img src="img/03-filtros-interativos.png" width="800" alt="Filtros do Dashboard">
 </p>
 
+<p align="center">
+  <img src="img/04-filtros-interativos.png" width="800" alt="Filtros do Dashboard">
+</p>
+
 **Principais KPIs e Métricas Monitoradas:**
 * Projetos e Demandas (Total, Em Andamento, Concluído, Atrasado).
 * Visão Geral de Prazos (Percentual de atividades dentro e fora do prazo).
