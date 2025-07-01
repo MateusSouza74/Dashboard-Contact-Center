@@ -79,9 +79,10 @@ O dashboard é totalmente interativo, permitindo filtros por período, responsá
 ├── ContactCenterDashboard.pbix   # Arquivo principal do Power BI
 ├── README.md                     # Documentação do projeto
 └── img/                          # Pasta com os screenshots do dashboard
-    ├── image_6906d5.png
-    ├── image_690731.png
-    └── image_6906f2.png
+    ├── 01-visao-geral.png
+    ├── 02-desempenho-detalhado.png
+    ├── 03-filtros-interativos.png
+    └── 04-filtros-interativos.png
 ```
 
 ## 📝 Licença
