@@ -49,11 +49,11 @@ Permite uma análise mais profunda do andamento dos projetos e demandas, incluin
 O dashboard é totalmente interativo, permitindo filtros por período, responsável e status da atividade, proporcionando análises personalizadas.
 
 <p align="center">
-  <img src="img/03-filtros-interativos.png" width="800" alt="Filtros do Dashboard">
+  <img src="img/04-filtros-interativos.png" width="800" alt="Filtros do Dashboard">
 </p>
 
 <p align="center">
-  <img src="img/04-filtros-interativos.png" width="800" alt="Filtros do Dashboard">
+  <img src="img/03-filtros-interativos.png" width="800" alt="Filtros do Dashboard">
 </p>
 
 **Principais KPIs e Métricas Monitoradas:**
