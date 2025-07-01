@@ -66,7 +66,7 @@ O dashboard é totalmente interativo, permitindo filtros por período, responsá
 1.  **Pré-requisitos:** É necessário ter o **Power BI Desktop** instalado.
 2.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/powerbi-contact-center-dashboard.git](https://github.com/seu-usuario/powerbi-contact-center-dashboard.git)
+    git clone https://github.com/MateusSouza74/Dashboard-Contact-Center.git
     ```
 3.  **Abra o arquivo:** Navegue até a pasta do projeto e abra o arquivo `ContactCenterDashboard.pbix` (ou o nome do seu arquivo) no Power BI Desktop.
 4.  **Conecte suas fontes de dados:** Se necessário, atualize as credenciais e o caminho das fontes de dados no Power Query para refletir o seu ambiente local.
